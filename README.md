@@ -58,6 +58,6 @@ Built with
 
 Next.js · React · TypeScript · Tailwind CSS · Supabase · Vercel
 
-Github repo link : https://github.com/SuneethaBandaru/
+Github repo link : https://github.com/SuneethaBandaru/Travel-Journal.git
 
-Vercel live link : https://
+Vercel live link : https://travel-journal-peach-kappa.vercel.app/
